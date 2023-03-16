@@ -89,6 +89,18 @@
   font-weight: bold;
 }
 
+.connect-wallet-container {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  max-width: 550px;
+  color: white;
+}
+
+.connect-wallet-container img {
+  padding-bottom: 20px;
+}
+
 /* KeyFrames */
 @-webkit-keyframes gradient-animation {
   0% {
